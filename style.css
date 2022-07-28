@@ -12,4 +12,7 @@
     .my-image{
         height: 600px;
     }
+    .dis-play{
+        display: none;
+    }
 }
